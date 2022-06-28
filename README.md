@@ -1,1 +1,2 @@
-# insert_json_parameter_file
+
+## Script to insert JSON Parameter from one file into another JSON parameter file
